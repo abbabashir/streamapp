@@ -4,6 +4,3 @@ torch==2.1.2
 numpy
 pillow
 opencv-python-headless
-numpy
-pillow
-streamlit
